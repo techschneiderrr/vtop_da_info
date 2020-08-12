@@ -6,7 +6,7 @@ It will show the due date sof the DAs that are first to complete, that means if 
 STEPS TO BE FOLLOWED :
 1) Clone the repository or simply download as a zip file.
 2) Unzip the folder.
-3) Now, you have to the <a href="chrome://extensions" style="color:red">Extensions</a> .
+3) Now, you have to chrome://extensions/ .
 4) On the top-left corner, turn on the <bold> Developer Mode </bold>.
 5) Now, simply click the <bold> add unpacked </bold>.
 6) Select the folder you unzipped and you are ready to go !!
