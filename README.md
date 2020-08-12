@@ -7,8 +7,8 @@ STEPS TO BE FOLLOWED :
 1) Clone the repository or simply download as a zip file.
 2) Unzip the folder.
 3) Now, you have to the <a href="chrome://extensions/"> Extensions </a> .
-4) On the top-left corner, turn on the <h5> Developer Mode </h5>.
-5) Now, simply click the <h5> add unpacked </h5>.
+4) On the top-left corner, turn on the <bold> Developer Mode </bold>.
+5) Now, simply click the <bold> add unpacked </bold>.
 6) Select the folder you unzipped and you are ready to go !!
 7) Go to the DA section and click anywhere on the screen to load the dates.
 
