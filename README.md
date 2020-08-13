@@ -1,6 +1,6 @@
 # vtop_da_info
 
-It will show the due date sof the DAs that are first to complete, that means if you have 2 DAs pending, it will show the subition date of the closest DA in future.
+It will show the due dates if the DAs that are first to complete, that means if you have 2 DAs pending, it will show the submission date of the closest DA in future.
 
 ## Getting Started
 STEPS TO BE FOLLOWED :
